@@ -1,0 +1,6 @@
+pycache/
+*.py[cod]
+.env
+Policy_Meridian_Factory/
+Stock_Footage_News/
+.DS_Store
